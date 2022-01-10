@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/layout/_hero.scss"],"names":[],"mappings":"AAAA,iBAAA,GACE,YAAA,CACA","file":"src.8db84358.css","sourceRoot":"../src","sourcesContent":["р1 {\n  color: tomato;\n  background-color: gray;\n}\n"]}
